@@ -1,4 +1,4 @@
-# Hello world.
+# Hello, World!
 My name is Charles Masse,<br>
 I'm a professional Senior Crowd Technical Director based in Montréal and a Game Master in my free time.
 
