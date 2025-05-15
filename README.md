@@ -3,7 +3,7 @@ My name is Charles Masse,<br>
 I'm a professional Senior Crowd Technical Director based in Montréal and a Game Master in my free time.
 
 ###  🔭 I’m currently working on...
-- [NexusExplorer](https://github.com/charles-masse/NexusExplorer) a database reader for the defunct MMORPG WildStar for the purpose of running a campaign in that universe.
+- [NexusExplorer](https://github.com/charles-masse/NexusExplorer) a data reader for the defunct MMORPG WildStar for the purpose of running a campaign in that universe.
 
 ### 🎲 My roleplaying game stuff...
 <a href="https://charles-masse.itch.io" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/-itch.io-test?style=plastic&logo=itchdotio&labelColor=%23111111&color=%231b1b1b"></a>
