@@ -6,7 +6,7 @@ I'm a professional <i>Senior Crowd Technical Director</i> based in Montréal and
 <i>Coming Soon...</i>
 
 ### 🎲 TTRPG stuff
-- [<b>NexusExplorer</b>](https://github.com/charles-masse/NexusExplorer) [WIP] a data reader for the defunct MMORPG WildStar for the purpose of running a campaign in that universe.
+- [<b>NexusExplorer</b> [WIP]](https://github.com/charles-masse/NexusExplorer) a data reader for the defunct MMORPG WildStar for the purpose of running a campaign in that universe.
 
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/charles-masse" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/in-LinkedIn-test?style=plastic&labelColor=%230a66c2&color=%23FFFFFF"></a>
